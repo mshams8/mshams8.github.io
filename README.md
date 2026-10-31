@@ -40,6 +40,6 @@ The website includes a keyboard skip link, visible focus indicators, semantic la
 
 ## Content provenance
 
-Website copy is adapted from the CV-derived draft approved in the conversation. Download files are unchanged copies of the two-page industry résumé (BBA_3249_20261029) and seven-page academic CV (AUS_20261024_Research_Themes_Final). The academic PDF's opening research summary differs slightly from the plain-text CV used for the earlier draft; the four research areas on the website are supported by both. Publication status and appointment descriptions follow the supplied CVs as of October 2026; they were not independently re-audited for this website build.
+Website copy is adapted from the CV-derived draft approved in the conversation. Download files are public editions of the two-page industry résumé (BBA_3249_20261029) and seven-page academic CV (AUS_20261024_Research_Themes_Final), with the mobile number removed and neutral document metadata. Other document text and page counts are unchanged. The academic PDF's opening research summary differs slightly from the plain-text CV used for the earlier draft; the four research areas on the website are supported by both. Publication status and appointment descriptions follow the supplied CVs as of October 2026; they were not independently re-audited for this website build.
 
-PDFs retain the contact details present in the supplied originals. This package contains no application cover letters or references' contact details.
+Public PDFs retain email contact information and omit the mobile number. Application originals remain separate. Versioned download links ensure browsers request the new public copies. This package contains no application cover letters or references' contact details.
