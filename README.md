@@ -18,6 +18,17 @@ The included workflow follows GitHub's static Pages deployment documentation: ht
 
 No package installation or build command is needed. Only `dist/` is deployed. All internal assets use relative paths, so a project repository also works.
 
+## Website review — October 31, 2026
+
+- Made the name the main page heading and added direct résumé/CV downloads to the opening section.
+- Improved text sizes and touch targets; expanded the compact navigation breakpoint to accommodate the Awards link.
+- Replaced callback-order-dependent section highlighting with one consistent active-section calculation.
+- Added public sources for the ESIG and Energy Storage Canada awards, and selected DSA-SafetyBench and CIGRE hydrogen-hub publications from the supplied CV.
+- Added canonical and social metadata, Person structured data, robots.txt, and a sitemap.
+- Kept the existing PDF downloads intact. Public content uses the existing approved academic rank, appointment and contact information.
+
+Validation: desktop, tablet and phone layouts; horizontal overflow checks; mobile menu and Escape behavior; active-section navigation; all internal anchors and local assets; JavaScript syntax; structured metadata and sitemap; PDF page counts. Award links and the CIGRE article were checked against their public sources. The DSA-SafetyBench DOI resolved to its publisher, which blocked automated text retrieval; its bibliographic details follow the supplied CV.
+
 ## Edit content
 
 - Text, publication links, and download labels: `dist/index.html`.
