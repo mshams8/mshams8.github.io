@@ -1,0 +1,113 @@
+Mohamed Shamseldein — Publications and Research Outputs
+Updated November 13, 2026
+
+Published journal and magazine articles
+
+[J1] M. Shamseldein, "Grid Integration of Gigawatt-Scale Hydrogen Hubs: A Multi-Timescale Stability Analysis and Connection Requirements for Weak Grid Environments," CIGRE Science & Engineering (CSE), no. 42, October 2026. Published full text — https://cse.cigre.org/cse-n042/grid-integration-of-gigawatt-scale-hydrogen-hubs-a-multi-timescale-stability-analysis-and-connection-requirements-for-weak-grid-environments.html
+
+[J2] M. Shamseldein, "Co-Located AI data centers, hydrogen production, and battery storage: a multi-timescale grid-connection assessment," Global Energy Interconnection, advance online publication, 2026.
+https://doi.org/10.1016/j.gloei.2026.08.002
+
+[J3] M. Shamseldein, "Networked Cyber-Physical Control of Data Centres for Fast Frequency Response via DVFS and UPS-BESS Coordination," IET Smart Grid, vol. 9, no. 1, e70117, 2026.
+https://doi.org/10.1049/stg2.70117
+
+[J4] M. Shamseldein, "Hyperscale Data Centers as Wide-Area Damping Actuators for Low-Inertia Power Systems," Smart Grids and Sustainable Energy, vol. 11, article 43, 2026.
+https://doi.org/10.1007/s40866-026-00358-5
+
+[J5] M. Shamseldein, "Generative Autonomous Grid Control: Integrating Decision Transformers with a Two-Stage Safety Stack," IEEE Transactions on Smart Grid, early access, 2026.
+https://doi.org/10.1109/TSG.2026.3714568
+
+[J6] M. Shamseldein, "DSA-SafetyBench: A safety-aware benchmark for artificial-intelligence-based dynamic security assessment in energy systems," Energy and AI, vol. 25, article 100811, 2026.
+https://doi.org/10.1016/j.egyai.2026.100811
+
+[J7] M. Shamseldein, "Mitigating Grid Stability Risks From Large AI Data Centres: A Three-Mode Supervisory Control Framework for Centralized UPS Systems," IET Generation, Transmission & Distribution, vol. 20, e70369, 2026.
+https://doi.org/10.1049/gtd2.70369
+
+[J8] M. Shamseldein, "Learned Surrogates for AC Feasibility in Stochastic Unit Commitment: A Comparative Study With Conformal Guarantees," IET Generation, Transmission & Distribution, vol. 20, e70345, 2026.
+https://doi.org/10.1049/gtd2.70345
+
+[J9] M. Shamseldein, "A hybrid GNN-LSE method for fast, robust, and physically-consistent AC power flow," Electric Power Systems Research, vol. 252, article 112380, 2026; first online October 31, 2025.
+https://doi.org/10.1016/j.epsr.2025.112380
+
+[J10] M. Shamseldein, "Impedance-passivity coordination of hydrogen-coupled AI data centers for oscillation damping and fault ride-through at transmission interfaces," Electric Power Systems Research, vol. 262, article 113557, 2027; first online June 29, 2026.
+https://doi.org/10.1016/j.epsr.2026.113557
+
+[J11] M. Shamseldein, "Scarcity-era large-load interconnection governance: Reliability enablement, lifecycle tail risk, and benchmarking safeguards," Energy Policy, vol. 215, article 115347, 2026.
+https://doi.org/10.1016/j.enpol.2026.115347
+
+[J12] M. Shamseldein, "Deep reinforcement learning-based load-side resonance forcing via hyper-scale data center load modulation," IET Smart Grid, vol. 9, e70083, 2026.
+https://doi.org/10.1049/stg2.70083
+
+[J13] M. Shamseldein, "The split-station architecture: Decoupling transformation from distribution via medium-voltage superconducting virtual bus extensions," IET Electric Power Applications, vol. 20, e70171, 2026.
+https://doi.org/10.1049/elp2.70171
+
+[J14] M. Shamseldein, "Unconstrained model and merge sorted serpentine arrangement method for dynamic reconfiguration of large PV arrays," Energy Conversion and Management: X, vol. 16, article 100320, 2022.
+https://doi.org/10.1016/j.ecmx.2022.100320
+
+[J15] M. Shamseldein, "A fast holomorphic embedding power-flow approach for meshed distribution networks," International Transactions on Electrical Energy Systems, article 9561385, 2022.
+https://doi.org/10.1155/2022/9561385
+
+[J16] M. Z. Shams El-Dein, M. Kazerani and M. M. A. Salama, "Optimal photovoltaic array reconfiguration to reduce partial shading losses," IEEE Transactions on Sustainable Energy, vol. 4, no. 1, pp. 145-153, 2013. https://doi.org/10.1109/TSTE.2012.2208128
+
+[J17] M. Z. Shams El-Dein, M. Kazerani and M. M. A. Salama, "An optimal total cross-tied interconnection for reducing mismatch losses in photovoltaic arrays," IEEE Transactions on Sustainable Energy, vol. 4, no. 1, pp. 99-107, 2013.
+https://doi.org/10.1109/TSTE.2012.2202325
+
+[J18] A. A. El-Sattar, N. H. Saad and M. Z. Shams El-Dein, "Dynamic response of doubly fed induction generator variable-speed wind turbine under fault," Electric Power Systems Research, vol. 78, no. 7, pp. 1240-1246, 2008.
+https://doi.org/10.1016/j.epsr.2007.10.005
+
+[J19] A. A. El-Sattar, N. H. Saad and M. Z. Shams El-Dein, "Fuzzy Logic Controller for Doubly Fed Induction Generator Driven By Variable Speed Wind Turbine," Scientific Bulletin, Faculty of Engineering, Ain Shams University, Part II, vol. 42, no. 1, pp. 671-683, 2007.
+
+[J20] A. Rashwan, B. Guha, M. Shamseldein, S. Kynev, T. Meridji, A. Dadashzade and E. Meier, “Large Electronic Loads: Understanding and Mitigating Risks to the Power System,” IEEE Power & Energy Magazine, vol. 24, no. 6, pp. 84–95, November–December 2026. https://doi.org/10.1109/MPE.2026.3716964
+
+Accepted manuscripts
+
+[A1] M. Shamseldein, "Solver-Consistent Neural Surrogate for EMT-Grade LVRT Margin Screening of Inverter-Dominated Large-Load Interconnections," Journal of Modern Power Systems and Clean Energy. Accepted for publication September 9, 2026.
+
+[A2] M. Shamseldein, "Adversarial Self-Improvement for Resilient Smart Grid Dispatch Control Under Extreme N-2 Contingencies," IET Smart Grid. Accepted for publication, 2026.
+
+[A3] M. Shamseldein, “Linear-Memory Sample-Wise Certification of Radial AC Power Flow with Tree-Factorized Contraction Bounds,” International Journal of Electrical Power & Energy Systems. Accepted for publication. Manuscript IJEPES-D-26-02806.
+
+Published conference papers
+
+[C1] M. Shamseldein, F. Gao and M. Bayoumi, "Integration of Large Loads to the Ontario Power System," CIGRE Calgary 2026 Colloquium (Energy Forum), SC C1, paper 10502, pp. 1-10, 2026.
+https://www.e-cigre.org/publications/detail/coll-cal-2026-colloquium-calgary-2026.html
+
+[C2] M. Shamseldein, "Stability-Informed Defense Prioritization for Power Grid Protection Against Coordinated Drone Attacks," 2026 International Telecommunications Conference (ITC-Egypt), new capital, Egypt, pp. 796-801, 2026.
+https://doi.org/10.1109/ITC-Egypt70422.2026.11765590
+
+[C3] M. Shamseldein, "Stability-Constrained Siting of Pulsed Counter-UAS Loads in Transmission Substations," 2026 International Telecommunications Conference (ITC-Egypt), new capital, Egypt, pp. 936-941, 2026.
+https://doi.org/10.1109/ITC-Egypt70422.2026.11765411
+
+[C4] A. Mahmoud, M. Shamseldein, H. Hasanien and A. Abdelaziz, "Photovoltaic Array Reconfiguration to Reduce Partial Shading Losses using Water Cycle Algorithm," 2019 IEEE Electrical Power and Energy Conference (EPEC), Montreal, Canada, pp. 1-6, 2019.
+https://doi.org/10.1109/EPEC47565.2019.9074818
+
+[C5] M. Z. Shamseldein, A. Y. Abdelaziz and A. A. Mahmoud, "Fault Analysis and Detection in Total Cross Tied Photovoltaic Arrays," 2018 Twentieth International Middle East Power Systems Conference (MEPCON), pp. 185-189, 2018.
+https://doi.org/10.1109/MEPCON.2018.8635289
+
+[C6] M. Z. Shams El-Dein, M. Kazerani and M. M. A. Salama, "Optimal total cross tied interconnection for photovoltaic arrays to reduce partial shading losses," 2012 IEEE Power and Energy Society General Meeting, pp. 1-6, 2012.
+https://doi.org/10.1109/PESGM.2012.6344845
+
+[C7] M. Z. Shams El-Dein, M. Kazerani and M. M. A. Salama, "Optimal photovoltaic array reconfiguration to maximize power production under partial shading," 2012 11th International Conference on Environment and Electrical Engineering (EEEIC), pp. 255-260, 2012.
+https://doi.org/10.1109/EEEIC.2012.6221584
+
+[C8] M. Z. Shams El-Dein, M. Kazerani and M. M. A. Salama, "Novel configurations for photovoltaic farms to reduce partial shading losses," 2011 IEEE Power and Energy Society General Meeting, pp. 1-5, 2011.
+https://doi.org/10.1109/PES.2011.6039636
+
+[C9] A. A. El-Sattar, N. H. Saad and M. Z. Shams El-Dein, "Modelling and simulation of doubly fed induction generator varable speed wind turbine," 2006 Eleventh International Middle East Power Systems Conference, vol. 2, pp. 492-497, 2006.
+
+Book chapter
+
+[B1] M. Z. Shamseldein and A. Y. Abdelaziz, "Energy Management for Medium-Voltage Direct Current Networks," in Medium Voltage Direct Current Grid, M. M. Eissa, Ed., Academic Press, pp. 43-57, 2019.
+https://doi.org/10.1016/B978-0-12-814560-9.00002-1
+
+Public preprints
+
+[P1] M. Shamseldein, "Grid-Mind: An LLM-Orchestrated Multi-Fidelity Agent for Automated Connection Impact Assessment," arXiv:2602.20683, 2026. Preprint.
+https://arxiv.org/abs/2602.20683
+
+Doctoral thesis
+M. Z. Shams El-Dein, Novel Designs for Photovoltaic Arrays to Reduce Partial Shading Losses and to Ease Series Arc Fault Detection, Ph.D. thesis, University of Waterloo, 2012.
+
+Patent applications (not granted patents)
+M. Z. Shamseldein, M. Kazerani and M. M. A. Salama, “Reconfigurable Photovoltaic Structure,” U.S. patent application 13/354,876, filed 2012.
+M. Z. Shamseldein, M. Kazerani and M. M. A. Salama, “System and Method for Reducing Mismatch in a Photovoltaic Structure,” U.S. patent application 13/354,622, filed 2012.
