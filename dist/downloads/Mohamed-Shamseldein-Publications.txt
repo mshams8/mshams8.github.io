@@ -1,5 +1,5 @@
 Mohamed Shamseldein — Publications and Research Outputs
-Updated November 17, 2026
+Updated November 19, 2026
 
 Published journal and magazine articles
 
@@ -59,14 +59,15 @@ https://doi.org/10.1016/j.epsr.2007.10.005
 
 [J20] A. Rashwan, B. Guha, M. Shamseldein, S. Kynev, T. Meridji, A. Dadashzade and E. Meier, “Large Electronic Loads: Understanding and Mitigating Risks to the Power System,” IEEE Power & Energy Magazine, vol. 24, no. 6, pp. 84–95, November–December 2026. https://doi.org/10.1109/MPE.2026.3716964
 
-[J21] M. Shamseldein, "Linear-memory sample-wise certification of radial AC power flow with tree-factorized contraction bounds," International Journal of Electrical Power & Energy Systems, vol. 183, article 112287, October 2026.
+[J21] M. Shamseldein, "Linear-memory sample-wise certification of radial AC power flow with tree-factorized contraction bounds," International Journal of Electrical Power & Energy Systems, vol. 183, article 112287, 2026. Available online November 17, 2026.
 https://doi.org/10.1016/j.ijepes.2026.112287
+
+[J22] M. Shamseldein, "Adversarial Self-Improvement for Resilient Smart Grid Dispatch Control Under Extreme N-2 Contingencies," IET Smart Grid, vol. 9, no. 1, e70090, 2026.
+https://doi.org/10.1049/stg2.70090
 
 Accepted manuscripts
 
 [A1] M. Shamseldein, "Solver-Consistent Neural Surrogate for EMT-Grade LVRT Margin Screening of Inverter-Dominated Large-Load Interconnections," Journal of Modern Power Systems and Clean Energy. Accepted for publication September 9, 2026.
-
-[A2] M. Shamseldein, "Adversarial Self-Improvement for Resilient Smart Grid Dispatch Control Under Extreme N-2 Contingencies," IET Smart Grid. Accepted for publication, 2026.
 
 [A4] M. Shamseldein, "A Staged Assessment Workflow for Hyperscale Data-Centre Interconnection Studies," CIGRE, manuscript REF195. Accepted for publication; sent for publication, with publication expected at the end of February 2027.
 
